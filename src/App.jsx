@@ -13,6 +13,7 @@ function App() {
   }
 
   const startGame = () => {
+    setIsRulesOpen(false);
     setIsGameStarted(!isGameStarted);
   }
 
