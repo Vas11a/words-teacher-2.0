@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/words-teacher-2.0/static/css/main.42d49345.css",
+    "main.js": "/words-teacher-2.0/static/js/main.5ee3017e.js",
+    "index.html": "/words-teacher-2.0/index.html",
+    "main.42d49345.css.map": "/words-teacher-2.0/static/css/main.42d49345.css.map",
+    "main.5ee3017e.js.map": "/words-teacher-2.0/static/js/main.5ee3017e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42d49345.css",
+    "static/js/main.5ee3017e.js"
+  ]
+}
