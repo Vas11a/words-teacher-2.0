@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/words-teacher-2.0/static/css/main.42d49345.css",
-    "main.js": "/words-teacher-2.0/static/js/main.1fa42c09.js",
+    "main.css": "/words-teacher-2.0/static/css/main.4d955c23.css",
+    "main.js": "/words-teacher-2.0/static/js/main.876563b1.js",
     "index.html": "/words-teacher-2.0/index.html",
-    "main.42d49345.css.map": "/words-teacher-2.0/static/css/main.42d49345.css.map",
-    "main.1fa42c09.js.map": "/words-teacher-2.0/static/js/main.1fa42c09.js.map"
+    "main.4d955c23.css.map": "/words-teacher-2.0/static/css/main.4d955c23.css.map",
+    "main.876563b1.js.map": "/words-teacher-2.0/static/js/main.876563b1.js.map"
   },
   "entrypoints": [
-    "static/css/main.42d49345.css",
-    "static/js/main.1fa42c09.js"
+    "static/css/main.4d955c23.css",
+    "static/js/main.876563b1.js"
   ]
 }
